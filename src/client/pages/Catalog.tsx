@@ -8,7 +8,7 @@ import { ApplicationState, productsLoad } from '../store';
 
 const bem = cn('Catalog');
 
-export const Catalog: React.FC = () => {
+export const Catalog: any = () => {
     const dispatch = useDispatch();
     const products = useSelector((s: ApplicationState) => s.products);
 
