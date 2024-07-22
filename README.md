@@ -1,4 +1,4 @@
-## IP: 51.250.38.181
+## website: [kogtetochka store](http://51.250.38.181:3000/hw/store)
 ## tg: [kebaboy](https://t.me/k3baboy)
 # Домашнее задание ШРИ: Инфраструктура
 
